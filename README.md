@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GMDHooneper9
-- 👀 I’m interested in Coding/Making mods
+- 👀 I’m interested in Making Textures
 - 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on FNF mod packs
+- 💞️ I’m looking to collaborate on Texture Packs
 - 📫 How to reach me by messaging me on github 
 
 <!---
