@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GMDHooneper9
 - 👀 I’m interested in Making Textures
-- 🌱 I’m currently learning Nothing
+- 🌱 I’m currently self learning on how to use paint.net
 - 💞️ I’m looking to collaborate on Texture Packs
 - 📫 How to reach me by messaging me on github 
 
